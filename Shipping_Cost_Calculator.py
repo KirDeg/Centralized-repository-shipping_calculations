@@ -1,4 +1,5 @@
- # Here is a new update by KirDeg
+# Here is a new update by KirDeg
+# Here is another update by KirDeg
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
